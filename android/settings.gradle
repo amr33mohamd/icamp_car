@@ -1,0 +1,3 @@
+rootProject.name = 'icamp_car'
+
+include ':app'
